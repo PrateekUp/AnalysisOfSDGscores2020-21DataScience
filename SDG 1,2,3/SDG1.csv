@@ -1,0 +1,45 @@
+SNO,Category,States/UTs,Percentage of population living below the national poverty line,Head count ratio as per the Multidimensional Poverty Index (%),Percentage of households with any usual member covered by a health scheme or health insurance,Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Percentage of the population (out of total eligible population) receiving social protection benefits under Pradhan Mantri Matru Vandana Yojana (PMMVY),Percentage of households living in katcha houses 
+1,State,Andhra Pradesh,9.2,15.6,74.6,83.80865125986605,96.4,3.2
+2,State,Arunachal Pradesh,34.67,24.4,58.3,95.43586212652312,92.76,29
+3,State,Assam,31.98,36.199999999999996,10.4,86.10938705555978,95.32,2.4
+4,State,Bihar,33.74,52.5,12.3,78.59992052740535,87.97,8.2
+5,State,Chhattisgarh,39.93,36.8,68.5,77.08559332369937,94.98,2.1
+6,State,Goa,5.09,5.5,15.9,97.38598442714127,93.96,0.4
+7,State,Gujarat,16.63,21.7,23.1,83.62577745494167,92.83,2
+8,State,Haryana,11.16,10.9,12.2,79.12016257865395,97.24,0.2
+9,State,Himachal Pradesh,8.06,8.1,25.7,90.29906641044651,95.86,0.2
+10,State,Jharkhand,36.96,46.5,13.3,80.62341044876443,89.69,6.6
+11,State,Karnataka,20.91,17.299999999999997,28.1,86.33674621658953,92.35,2
+12,State,Kerala,7.05,1.0999999999999999,47.699999999999996,88.84764354570059,97.75,0.3
+13,State,Madhya Pradesh,31.65,41.099999999999994,17.7,79.27065901025806,95.86,4.5
+14,State,Maharashtra,17.35,17.299999999999997,15,84.28964809425567,92.98,2
+15,State,Manipur,36.89,21,3.5999999999999996,97.06282715627219,87.84,2.5
+16,State,Meghalaya,11.87,32.800000000000004,34.599999999999994,97.95301089453548,96.61,2.3
+17,State,Mizoram,20.4,9.8,45.8,99.92497658504884,93.45,6
+18,State,Nagaland,18.88,23.7,6.1,98.95996673380306,91.3,0.7
+19,State,Odisha,32.59,35.9,47.699999999999996,85.5074038946671,Null,14.2
+20,State,Punjab,8.26,6.1,21.2,77.65969545821079,96.46,0.5
+21,State,Rajasthan,14.71,32,18.7,84.24338687221267,98.15,2.8
+22,State,Sikkim,8.19,4.9,30.3,91.29617610471091,92.17,0.6
+23,State,Tamil Nadu,11.28,7.3,64,94.44132977271047,88.42,2.4
+24,State,Telangana,Null,17.5,66.4,81.38131102815909,Null,1.5
+25,State,Tripura,14.05,20.3,58.099999999999994,96.38300879300492,86.58,2.6
+26,State,Uttar Pradesh,29.43,40.8,6.1,82.14847612853796,93.48,6.4
+27,State,Uttarakhand,11.26,17.299999999999997,19.5,90.0232384961276,89.02,1.8
+28,State,West Bengal,19.98,26.3,33.4,87.5947866334826,71.57,6
+29,Union Territory,Andaman and Nicobar Islands,1,6.9,5.7,82.96189791516895,96.73,0
+30,Union Territory,Chandigarh,21.81,4.8,21.3,Null,96.22,0
+31,Union Territory,Dadra and Nagar Haveli,39.31,34.1,30.8,Null,94.94,0.1
+32,Union Territory,Daman and Diu,9.86,6,17,Null,90.21,0.1
+33,Union Territory,Delhi,9.91,4.3,15.7,Null,96.5,0.8
+34,Union Territory,Jammu and Kashmir,10.35,15.2,4.2,84.3185839089708,96.69,4.3
+35,Union Territory,Ladakh ,10.35,15.2,4.2,97.75120753820572,96.69,4.3
+36,Union Territory,Lakshadweep,2.77,1.7999999999999998,2.9,91.85185185185185,26.41,0
+37,Union Territory,Puducherry,9.69,3.4000000000000004,32.800000000000004,84.75669721883482,96.01,2.2
+,,India,21.92,27.9,28.7,84.44290811496312,91.38,4.2
+,,Target,10.96,13.95,100,98.95,100,0
+,,Data Source,Tendulkar Committee Report ,"Global MPI Country Briefing 2020: India - OPHI, NFHS-4","Ministry of Health & Family Welfare
+[National Family Health Survey-4]","Ministry of Rural Development
+[MGNREGA Progress Report]",Ministry of Women and Child Development ,"[National Sample Survey - 76th round - Drinking Water, Sanitation, Hygiene and Housing
+Condition in India] pg 153"
+,,Data Period,2011-12,2015-16,2015-16,2019-20,2019-20,July 2018 to December 2018
